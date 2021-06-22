@@ -18,6 +18,9 @@ Pool:
 * Peopleware
 * Pearls of Functional Algorithm Design
 * Reverse engineering for beginners
+
+Advices from public speaking teacher (russian):
+
 * Никита Непряхин «Убеждай и побеждай», «Гни свою линию». Его МК и вебинары
 * Ника Косенкова «Метоника»
 * Радислав Гандапас «Камасутра для оратора»
